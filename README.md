@@ -19,3 +19,7 @@ Increasing difficulty with each level
 Game over detection
 Sound effects & button animations
 Track your highest score (optional if you have implemented)
+
+
+🔗 Live Demo
+https://rohanbide-2006.github.io/JS-project-Simon-Says-Game/
